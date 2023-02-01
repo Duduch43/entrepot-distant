@@ -1,2 +1,2 @@
 Initialisation du fichier
-Ajout d'informations
+Ajout d'autres informations
